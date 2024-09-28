@@ -1,0 +1,19 @@
+.to-do {
+  border: 1px black solid;
+  margin: 20% ;
+  padding: 20px;
+}
+.inp-cont {
+  display: flex;
+  justify-content: space-between;
+}
+
+.no {
+  text-decoration: line-through;
+}
+.task {
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
